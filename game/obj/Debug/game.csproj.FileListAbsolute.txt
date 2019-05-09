@@ -1,0 +1,13 @@
+C:\Users\zzk11\source\repos\game\bin\Debug\game.exe.config
+C:\Users\zzk11\source\repos\game\bin\Debug\game.exe
+C:\Users\zzk11\source\repos\game\bin\Debug\game.pdb
+C:\Users\zzk11\source\repos\game\bin\Debug\Engine.dll
+C:\Users\zzk11\source\repos\game\bin\Debug\Engine.pdb
+C:\Users\zzk11\source\repos\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\zzk11\source\repos\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\zzk11\source\repos\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\zzk11\source\repos\game\obj\Debug\game.csproj.CopyComplete
+C:\Users\zzk11\source\repos\game\obj\Debug\game.exe
+C:\Users\zzk11\source\repos\game\obj\Debug\game.pdb
+C:\Users\zzk11\source\repos\game\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\zzk11\source\repos\game\obj\Debug\SuperAdventure.SuperAdventure.resources
